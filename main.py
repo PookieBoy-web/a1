@@ -11,6 +11,10 @@ BOT_TOKENS = [
     os.environ.get("BOT_TOKEN_1"),
     os.environ.get("BOT_TOKEN_2"),
     os.environ.get("BOT_TOKEN_3"),
+    os.environ.get("BOT_TOKEN_4"),
+    os.environ.get("BOT_TOKEN_5"),
+    os.environ.get("BOT_TOKEN_6"),
+    os.environ.get("BOT_TOKEN_7"),
 ]
 
 
