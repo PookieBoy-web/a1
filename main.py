@@ -3,7 +3,7 @@ import asyncio
 import discord
 from discord.ext import commands
 
-ALLOWED_USERS = {1383785763501637674}
+ALLOWED_USERS = {1383785763501637674,1377967442172579843}
 
 PREFIX = "$$"
 
